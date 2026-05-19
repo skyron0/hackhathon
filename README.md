@@ -160,5 +160,5 @@ yks-ai-coach/
 
 ---
 
-**Hackathon ekibi:** Emirhan & ekibi  
+**Hackathon ekibi:** Overclock  
 **BTK Akademi Hackathonu 2026**
